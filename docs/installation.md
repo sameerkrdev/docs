@@ -29,7 +29,7 @@ Intent provides necessary feature-integrations out of the box.
 
 - **RDBMS** - MySQL, PostgreSQL, SQLite
 - **Storage** - Unix File System AWS S3
-- **Message** Queues - AWS SQS, Redis, Database.
+- **Message Queues** - AWS SQS, Redis, Database.
 - **Mailers** - SMTP, Mailgun, Resend.
 - **Caching** - Redis, In-Memory.
 - **Logging**
